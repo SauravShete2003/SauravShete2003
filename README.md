@@ -17,10 +17,10 @@
 <h2 align="center">🚀 My Projects</h2>
 <ul>
   <li>🌱 <a href="https://dish-delight-recipe.netlify.app">Dish Delight Recipe</a> - A delightful recipe website featuring Indian cuisines and cooking tips.</li>
-  <li>🌿 <a href="#">Plant Nursery</a> - A React-based plant nursery website featuring plant galleries and user sign-up functionalities.</li>
-  <li>🏠 <a href="#">Home Decoration</a> - A beautiful home decoration website to inspire design ideas.</li>
-  <li>📈 <a href="#">Budget Buddy</a> - An expense tracker to manage your finances, built using React.js and MongoDB.</li>
-  <li>📝 <a href="#">Score Keeper</a> - A score-tracking app with beautifully styled components.</li>
+  <li>📈 <a href="https://budget-buddy-sooty.vercel.app/">Budget Buddy</a> - An expense tracker to manage your finances, built using React.js and MongoDB.</li>
+<li> 🤏🏻<a href="https://tinyshorter.netlify.app">TinyURL</a> - A URL shortener that converts long URLs into shorter, more manageable links.</li>
+<li>📝 <a href="https://sauravportfolio-six.vercel.app/">Portfolio</a> - A showcase of my projects, skills, and experience, designed with a focus on clean aesthetics and user-friendly navigation.</li>
+
 </ul>
 
 ---
