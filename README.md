@@ -60,9 +60,14 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RMwBYsP7INiknAigN9/giphy.gif" width="100" autoplay loop muted/>
+  <img src="https://media.giphy.com/media/RMwBYsP7INiknAigN9/giphy.gif" width="100"/> <!-- First GIF -->
   <strong>Let's Code Something Awesome Together!</strong>
-  <img src="https://media.giphy.com/media/RMwBYsP7INiknAigN9/giphy.gif" width="100" autoplay loop muted/>
+  <img src="https://media.giphy.com/media/RMwBYsP7INiknAigN9/giphy.gif" width="100"/> <!-- Second GIF -->
+</p>
+
+<p align="center">
+  <!-- Add your new GIF below -->
+  <img src="https://media.giphy.com/media/new-gif-url/giphy.gif" width="300" alt="New GIF"/> <!-- New GIF -->
 </p>
 
 
