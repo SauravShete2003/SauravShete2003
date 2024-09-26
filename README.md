@@ -60,9 +60,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RMwBYsP7INiknAigN9/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RMwBYsP7INiknAigN9/giphy.gif" width="100" autoplay loop muted/>
   <strong>Let's Code Something Awesome Together!</strong>
-  <img src="https://media.giphy.com/media/RMwBYsP7INiknAigN9/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RMwBYsP7INiknAigN9/giphy.gif" width="100" autoplay loop muted/>
 </p>
 
 
