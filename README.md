@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer and Android Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" autoplay/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" autoplay loop muted/>
 </p>
 
 - 👀 I’m interested in **Full Stack Development**
