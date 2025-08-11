@@ -49,7 +49,7 @@
 
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
-  <a href="mailto:sauravshete2003@gmail.com">
+  <a href="mailto:sauravshete72@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sauravshete2003">
