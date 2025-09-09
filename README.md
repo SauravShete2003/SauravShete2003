@@ -19,7 +19,7 @@
   <li>🌱 <a href="https://dish-delight-recipe.netlify.app">Dish Delight Recipe</a> - A delightful recipe website featuring Indian cuisines and cooking tips.</li>
   <li>📈 <a href="https://budget-buddy-sooty.vercel.app/">Budget Buddy</a> - An expense tracker to manage your finances, built using React.js and MongoDB.</li>
 <li> 🤏🏻<a href="https://tinyshorter.netlify.app">TinyURL</a> - A URL shortener that converts long URLs into shorter, more manageable links.</li>
-<li>📝 <a href="https://sauravportfolio-six.vercel.app/">Portfolio</a> - A showcase of my projects, skills, and experience, designed with a focus on clean aesthetics and user-friendly navigation.</li>
+<li>📝 <a href="https://sauravportfolio-epi7.vercel.app">Portfolio</a> - A showcase of my projects, skills, and experience, designed with a focus on clean aesthetics and user-friendly navigation.</li>
 
 </ul>
 
