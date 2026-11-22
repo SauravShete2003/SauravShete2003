@@ -5,7 +5,7 @@
   3. Replace every [PLACEHOLDER] (name, links, username) and delete anything that is not true for you.
 -->
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Saurav Shete 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=QA+Engineer+(Fresher);Manual+%2B+Automation+Testing;I+break+software+so+users+don't+have+to" alt="Typing SVG" />
@@ -138,6 +138,6 @@ Evidence:     Screenshot / video / console logs attached
 
 I'm actively looking for a **QA internship or entry-level QA role**. If you have an opening, or you just want to talk testing, reach out:
 
-📧 [your-email] &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/[your-linkedin])
+📧 sauravshete72@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn] https://www.linkedin.com/in/saurav-shete/
 
 <p align="center"><i>"Quality is not an act, it is a habit."</i> ✨</p>
