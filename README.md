@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurav-shete/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sauravshete72@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="sauravshete72@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open%20to-QA%20Internships-2EA44F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Pune%20%7C%20Remote-orange?style=for-the-badge"/>
 </p>
